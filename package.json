@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/DaltonHart/ipsum-generator#readme",
   "dependencies": {
+    "bulma": "^0.7.1",
     "express": "^4.16.3"
   }
 }
