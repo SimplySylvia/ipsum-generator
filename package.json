@@ -1,0 +1,19 @@
+{
+  "name": "ipsum-generator",
+  "version": "1.0.0",
+  "description": "A genreator for fun ipsum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaltonHart/ipsum-generator.git"
+  },
+  "author": "dalton daltonvaren@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaltonHart/ipsum-generator/issues"
+  },
+  "homepage": "https://github.com/DaltonHart/ipsum-generator#readme"
+}
