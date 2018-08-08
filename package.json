@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DaltonHart/ipsum-generator/issues"
   },
-  "homepage": "https://github.com/DaltonHart/ipsum-generator#readme"
+  "homepage": "https://github.com/DaltonHart/ipsum-generator#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
