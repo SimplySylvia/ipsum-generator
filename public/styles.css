@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 1em auto;
+    width: 50vw;
+    text-align: center;
+}
+
+form{
+    margin-bottom: 2em;
+}
